@@ -9,13 +9,13 @@ The plugin conforms to the Cordova plugin specification, it can be installed
 using the Cordova / Phonegap command line interface.
 
     # without desc
-    phonegap plugin add https://github.com/amovsesy/ImagePicker.git
-    cordova plugin add https://github.com/amovsesy/ImagePicker.git
+    phonegap plugin add https://github.com/rentlyio/ImagePicker.git
+    cordova plugin add https://github.com/rentlyio/ImagePicker.git
 
     # with desc
-    phonegap plugin add https://github.com/amovsesy/ImagePicker.git --variable PHOTO_LIBRARY_USAGE_DESCRIPTION="your usage message"
+    phonegap plugin add https://github.com/rentlyio/ImagePicker.git --variable PHOTO_LIBRARY_USAGE_DESCRIPTION="your usage message"
 
-    cordova plugin add https://github.com/amovsesy/ImagePicker.git --variable PHOTO_LIBRARY_USAGE_DESCRIPTION="your usage message"
+    cordova plugin add https://github.com/rentlyio/ImagePicker.git --variable PHOTO_LIBRARY_USAGE_DESCRIPTION="your usage message"
 
 
 ## Using the plugin
